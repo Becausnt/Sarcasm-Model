@@ -1,0 +1,6 @@
+
+Just run 'python main.py' I guess.
+Maybe install the requirements if you have any issues (The only requirement being joblib==1.4.2). 
+The version used was Python 3.12.9
+
+Don't rename the model file (.pkl) or the dataset files if you just want to play around with the model a bit.
