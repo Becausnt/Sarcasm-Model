@@ -20,7 +20,7 @@ def launch_cli():
 
 # ----- Entrypoint -----
 if __name__ == "__main__":
-    print("Loading...")
+    print("Loading Model...")
     setup()
     launch_cli()
     exit(1)
