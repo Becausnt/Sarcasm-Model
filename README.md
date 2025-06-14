@@ -1,4 +1,4 @@
-# HugVincentLB-259
+# Sarcasm-Model
 ### NOTE:
 Jeglicher code wurde in Python 3.12.9 geschrieben.
 Falls Sie eine andere Version nutzen kann es sein, dass die Libraries inkompatibel sind. (Ex. SpaCy funktioniert nicht mit python versionen über 3.12 oder unter 3.9)
